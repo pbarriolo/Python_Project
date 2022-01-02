@@ -1,4 +1,4 @@
-# Projet Python : Étude de la localisation des tournages de la ville de Paris
+# Projet Python : Étude de la répartition des tournages de la ville de Paris
 
 Pablo Barrio Lopez - Claire Dechaux - Adèle Moreau
 
