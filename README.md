@@ -1,6 +1,6 @@
 # Projet Python : Étude de la répartition des tournages de la ville de Paris
 
-Pablo Barrio Lopez - Claire Dechaux - Adèle Moreau
+**Pablo Barrio Lopez - Claire Dechaux - Adèle Moreau**
 
 
 L’invention du cinéma se fait au XIXe siècle, grâce à des évolutions technologiques successives. Les « inventeurs » les plus célèbres restent toutefois les frères Lumière. Premiers réalisateurs de l’histoire, ils ont rendu hommage à Paris dans plusieurs de leurs films. La capitale française accueille d’ailleurs la première projection cinématographique publique, le 28 décembre 1895, réalisée par Antoine Lumière. 
@@ -12,11 +12,16 @@ La ville de Paris reste néanmoins vaste et présente des caractéristiques hét
 
 Détails des fichiers présents dans notre git :
 
-- Étude de la localisation des tournages de la ville de Paris.ipynnb : Notebook principal
+- _Étude de la localisation des tournages de la ville de Paris.ipynb_ : Notebook principal
 
 - Données : Dossier contenant toutes les données utiles au projet
-    lieux-de-tournage-a-paris-csv.csv : Base de données principale, recense des informations sur les lieux de tournages dans la ville de Paris de 2016 à 2020,    disponible à l'adresse https://opendata.paris.fr/explore/dataset/lieux-de-tournage-a-paris/table/?disjunctive.type_tournage&disjunctive.nom_tournage&disjunctive.nom_realisateur&disjunctive.nom_producteur&disjunctive.ardt_lieu&dataChart&fbclid=IwAR1fIzMdQJFL8WPnwV_rZUwjBmeKQE4d5JHIELippsvERKLKmelPysytMqg
-    lieux-cultures-paris-csv.csv : Base de données utile dans la partie II, recense les lieux culturels de la ville de Paris et leurs caractéristiques, disponible à l'adresse https://www.data.gouv.fr/fr/datasets/grand-paris-express-et-lieux-culturels-1/?fbclid=IwAR1wuDHbyKYCTAEONE6OGaU-i_OBT8RiNBLHvZnZq8MDSdlPu8fInkCGe1I#
-    volumesbatisparis-csv-reduit.csv : Base de données utiles dans la partie III, contient initialement les caractéristiques de tous les bâtiments de la capitale mais a été restreinte aux variables utiles, base de données initiale disponible à l'adresse https://opendata.paris.fr/explore/dataset/volumesbatisparis/information/
-    carteparis.png : Carte de Paris en fonction des arrondissements
-    idf.csv : Base de données des contours administratifs des communes françaises, seulement utile ici pour les contours de l'Ile-de-France
+
+    _lieux-de-tournage-a-paris-csv.csv_ : Base de données principale, recense des informations sur les lieux de tournages dans la ville de Paris de 2016 à 2020,    disponible à l'adresse https://opendata.paris.fr/explore/dataset/lieux-de-tournage-a-paris/table/?disjunctive.type_tournage&disjunctive.nom_tournage&disjunctive.nom_realisateur&disjunctive.nom_producteur&disjunctive.ardt_lieu&dataChart&fbclid=IwAR1fIzMdQJFL8WPnwV_rZUwjBmeKQE4d5JHIELippsvERKLKmelPysytMqg
+    
+    _lieux-cultures-paris-csv.csv_ : Base de données utile dans la partie II, recense les lieux culturels de la ville de Paris et leurs caractéristiques, disponible à l'adresse https://www.data.gouv.fr/fr/datasets/grand-paris-express-et-lieux-culturels-1/?fbclid=IwAR1wuDHbyKYCTAEONE6OGaU-i_OBT8RiNBLHvZnZq8MDSdlPu8fInkCGe1I#
+    
+    _volumesbatisparis-csv-reduit.csv_ : Base de données utiles dans la partie III, contient initialement les caractéristiques de tous les bâtiments de la capitale mais a été restreinte aux variables utiles, base de données initiale disponible à l'adresse https://opendata.paris.fr/explore/dataset/volumesbatisparis/information/
+    
+    _carteparis.png_ : Carte de Paris en fonction des arrondissements
+    
+    _idf.csv_ : Base de données des contours administratifs des communes françaises, seulement utile ici pour les contours de l'Ile-de-France
