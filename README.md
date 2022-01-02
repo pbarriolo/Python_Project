@@ -1,4 +1,7 @@
-# Python_Project : Étude de la localisation des tournages de la ville de Paris
+# Projet Python : Étude de la localisation des tournages de la ville de Paris
+
+Pablo Barrio Lopez - Claire Dechaux - Adèle Moreau
+
 
 L’invention du cinéma se fait au XIXe siècle, grâce à des évolutions technologiques successives. Les « inventeurs » les plus célèbres restent toutefois les frères Lumière. Premiers réalisateurs de l’histoire, ils ont rendu hommage à Paris dans plusieurs de leurs films. La capitale française accueille d’ailleurs la première projection cinématographique publique, le 28 décembre 1895, réalisée par Antoine Lumière. 
 
