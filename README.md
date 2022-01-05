@@ -7,12 +7,12 @@ L’invention du cinéma se fait au XIXe siècle, grâce à des évolutions tech
 
 De nombreux films français ont été tournés à Paris. Certains ont d’ailleurs connu un formidable succès à l’international, comme *Le fabuleux destin d’Amélie Poulain*. Mais beaucoup de réalisateurs internationaux se laissent aussi tenter par les charmes de Paris. La liste des films ayant pour décor la capitale est longue. De *Midnight in Paris* à *La Délicatesse*, en passant par *La Môme*, *Ratatouille*, *Da Vinci Code* ou encore *Marie-Antoinette*. Paris réunit tout ce qui attire en France. La ville offre des décors de rêve pour le cinéma, grâce à ses monuments célèbres et à une architecture historique. D’ailleurs, Paris remporte, avec New-York, la palme de la ville la plus filmée au monde.
 
-La ville de Paris reste néanmoins vaste et présente des caractéristiques hétérogènes selon ses quartiers, et notamment ses arrondissements. Durant ce projet nous nous sommes ainsi demandés comment les différents tournages cinématographiques sont répartis dans l’espace parisien et quels sont les facteurs influant sur cette répartition ? Pour tenter de répondre à cette problématiques, nous commencerons par étudier les lieux de tournages dans la ville de Paris pour en distinguer la répartition, puis nous concentrerons notre analyse sur 2 axes pouvants expliquer cette répartition : la répartition des lieux culturels sur l’ensemble de la ville et l’urbanisme (superficie des bâtiments) de Paris.
+La ville de Paris reste néanmoins vaste et présente des caractéristiques hétérogènes selon ses quartiers, et notamment ses arrondissements. Durant ce projet nous nous sommes ainsi demandés : **Comment sont répartis les tournages cinématographiques dans l’espace parisien et quels sont les facteurs influant sur cette répartition ?** Pour tenter de répondre à cette problématique, nous commencerons par étudier les lieux de tournages dans la ville de Paris pour en distinguer la répartition, puis nous concentrerons notre analyse sur 2 axes pouvants expliquer cette répartition : la répartition des lieux culturels sur l’ensemble de la ville et l’urbanisme (superficie des bâtiments) de Paris.
 
 
 Détails des fichiers présents dans notre git :
 
-- _Étude de la localisation des tournages de la ville de Paris.ipynb_ : Notebook principal
+- _Étude_de_la_localisation_des_tournages_de_la_ville_de_Paris.ipynb_ : Notebook principal
 
 - Données : Dossier contenant toutes les données utiles au projet
 
